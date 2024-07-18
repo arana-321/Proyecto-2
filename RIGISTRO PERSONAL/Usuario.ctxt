@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Usuario()
+comment1.params=usuario\ contrasenha
+comment1.target=Usuario(java.lang.String,\ java.lang.String)
+comment2.params=usuario
+comment2.target=void\ setUsuario(java.lang.String)
+comment3.params=contrasenha
+comment3.target=void\ setContrasenha(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getUsuario()
+comment5.params=
+comment5.target=java.lang.String\ getContrasenha()
+numComments=6

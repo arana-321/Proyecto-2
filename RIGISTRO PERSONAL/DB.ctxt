@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=us
+comment0.target=void\ registrarUsuario(Usuario)
+comment1.params=an
+comment1.target=void\ registrarRegistroPersonal(RegistroPersonal)
+comment10.params=pos
+comment10.target=ControlVisitas\ ControlVisitasPos(int)
+comment11.params=pos
+comment11.target=HistorialRegistros\ HistorialRegistrosPos(int)
+comment2.params=con
+comment2.target=void\ ControlAsistencia(ControlAsistencia)
+comment3.params=con
+comment3.target=void\ Restringidos(Restringidos)
+comment4.params=con
+comment4.target=void\ ControlVisitas(ControlVisitas)
+comment5.params=con
+comment5.target=void\ HistorialRegistros(HistorialRegistros)
+comment6.params=pos
+comment6.target=Usuario\ usuarioPos(int)
+comment7.params=pos
+comment7.target=RegistroPersonal\ RegistroPersonalPos(int)
+comment8.params=pos
+comment8.target=ControlAsistencia\ ControlAsistenciaPos(int)
+comment9.params=pos
+comment9.target=Restringidos\ RestringidosPos(int)
+numComments=12
