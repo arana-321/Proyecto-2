@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=px\ py\ tx\ ty
+comment0.target=Caja(int,\ int,\ int,\ int)
+numComments=1

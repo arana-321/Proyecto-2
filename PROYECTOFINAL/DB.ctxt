@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=usu
+comment0.target=void\ RegistrarUsuario(Usuario)
+comment1.params=per
+comment1.target=void\ RegistrarPersonal(Personal)
+comment10.params=pos
+comment10.target=Asistencia\ asistenciaPos(int)
+comment2.params=consul
+comment2.target=void\ RegistrarAsistencia(Asistencia)
+comment3.params=pos\ nuevoUsuario
+comment3.target=boolean\ modificarUsuario(int,\ Usuario)
+comment3.text=MODIFICAR
+comment4.params=pos\ nuevoPersonal
+comment4.target=boolean\ modificarPersonal(int,\ Personal)
+comment5.params=pos\ nuevaAsistencia
+comment5.target=boolean\ modificarAsistencia(int,\ Asistencia)
+comment6.params=pos
+comment6.target=boolean\ eliminarUsuario(int)
+comment6.text=ELEMINAR
+comment7.params=pos
+comment7.target=boolean\ eliminarPersonal(int)
+comment8.params=pos
+comment8.target=boolean\ eliminarAsistencia(int)
+comment9.params=pos
+comment9.target=Personal\ personalPos(int)
+comment9.text=POSICION
+numComments=11
